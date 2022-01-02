@@ -1,0 +1,6 @@
+; Configuration Basic
+
+; Sinden Lightgun software directory
+; Example: C:\Sinden\Blue
+FirstGunFolder = C:\Sinden\Blue
+SecondGunFolder = C:\Sinden\Red
