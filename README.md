@@ -2,8 +2,7 @@
 This repo is a set of tool to easily generate AHK Executable Scripts to use with Sinden LightGuns.
 
 ## Introduction
-This repo contains three main folders :
-* **Builder** : This folder contains the scripts to generate the AHK Executable Scripts.
+This repo contains two main folders :
 * **Framework** : contains the framework and all its functions.
 * **Scripts** : contains all the scripts you can generate with the framework.
 
